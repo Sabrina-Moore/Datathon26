@@ -8,10 +8,24 @@ El Camino college
 - Chris Hurtado
 
 ## Dataset
-<!--TO DO-->
+The dataset provided was from the World Bank Open Data repository's World Development Indicators database. 
+
+Variables included:
+- gdp_per_capita_growth_pct: GDP per capita growth (annual %)   
+- broad_money_growth_pct: Broad money growth (annual %)
+- inflation_pct: Inflation (annual %)   
+- gdp_per_capita_usd: GDP per capita (current US$)   
+- female_unemployment_pct / male_unemployment_pct: Unemployment percent for each gender group
+- female_youth_literacy_pct_reported / male_youth_literacy_pct_reported: Youth literacy rate (% of females/males ages 15-24)
+- intellectual_property_payments_usd: Charges for the use of intellectual property payments 
+- net_migration_people: Net migration (negative is emigration out of the country, positive is immigration into the country)
+- primary_boys_out_of_school / primary_girls_out_of_school: Children out of primary school
+- refugees_hosted_people: Refugee population by country or territory of asylum
+- labor_force_people: Total labor force
+
 
 ## Task summary
-My team attended the LACC Datathon event designed to create interest in data science with an introduction to R (and Rstudio) and a one hour data analysis competition. 
+My team attended the LACC Datathon event designed to create interest in data science with an introduction to R (and Rstudio) and an one hour data analysis competition. 
 
 my Team had to analyze a dataset of countries with macroeconomic variables - GDP, unemployment percentages, literacy rates and other 
 economic factors - create visualizations, and present on one of two general topics:
@@ -27,13 +41,13 @@ We wanted to investigate whether economic stability and growth carry an implicit
 ## Why compare men and women?
 
 Men and women tend to cluster in different economic sectors and industries and are not equally impacted by the economy.
-<!-- Give data/research proof -->
+<!-- TODO Give data/research proof -->
 
 According to research by organizations like the International Labour Organization (ILO) and the World Bank, women in developing economies are often disproportionately concentrated in informal or vulnerable employment, making their workforce participation sensitive to broader macroeconomic shifts.
-<!-- Give data/research proof -->
+<!-- TODO Give data/research proof -->
 
 Demographic factors such as gender, race, and disability often highlight underlying structural inequities in access to stable employment during economic downturns.
-<!-- Give data/research proof -->
+<!-- TODO Give data/research proof -->
 
 
 ## Methodology and Steps
