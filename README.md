@@ -51,7 +51,11 @@ Demographic factors such as gender, race, and disability often highlight underly
 
 ## Visualizations
 
+![Male Unemployment percentage vs GDP](Visualizations/male-unemployment-plot.png)
 
+![Female Unemployment percentage vs GDP](Visualizations/female-unemployment-plot.png)
+
+![Male and Female Unemployment percentage vs GDP](Visualizations/combined-unemployment-plot.png)
 
 ## Results
 
