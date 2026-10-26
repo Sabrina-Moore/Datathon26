@@ -1,0 +1,218 @@
+﻿country_name,country_code,year,entity_type,gdp_per_capita_growth_pct,broad_money_growth_pct,inflation_pct,gdp_per_capita_usd,female_unemployment_pct,male_unemployment_pct,female_youth_literacy_pct_reported,male_youth_literacy_pct_reported,intellectual_property_payments_usd,net_migration_people,primary_boys_out_of_school,primary_girls_out_of_school,refugees_hosted_people,labor_force_people,gdp_growth_category,female_unemployment_category,male_unemployment_category
+Afghanistan,AFG,2023,country_or_territory,,,,,27.288,13.483,,,,-65846,,,34826,8920521,,Above 20%,10% to 20%
+Albania,ALB,2023,country_or_territory,4.633910227,2.346573,,8367.776,11.422,11.712,,,15183790.9,-8000,6226,10813,5079,1387831,Positive,10% to 20%,10% to 20%
+Algeria,DZA,2023,country_or_territory,2.494770973,5.991937,9.322174,5260.206,20.744,9.647,,,138000000,-9999,,,98590,13425064,Positive,Above 20%,5% to below 10%
+American Samoa,ASM,2023,country_or_territory,,,,,,,,,,-790,,,,,,,
+Andorra,AND,2023,country_or_territory,1.109786261,,,46544.72,,,,,,200,,,,,Positive,,
+Angola,AGO,2023,country_or_territory,-2.155077378,37.76491,13.6441,2309.522,14.749,14.492,,,196000000,-1000,,,25174,15222540,Negative,10% to 20%,10% to 20%
+Antigua and Barbuda,ATG,2023,country_or_territory,3.272750734,4.571865,5.067139,21560.22,,,,,12730295.9,0,,,,,Positive,,
+Argentina,ARG,2023,country_or_territory,-2.436251114,156.4297,,13730.51,6.8,5.714,27.716,,1750000000,3718,,,4104,21906419,Negative,5% to below 10%,5% to below 10%
+Armenia,ARM,2023,country_or_territory,8.797784101,17.39602,1.980419,8715.765,6.058,11.328,,,0,-5000,6286,6573,150080,1355546,Positive,5% to below 10%,10% to 20%
+Aruba,ABW,2023,country_or_territory,,,,,,,,,,157,,,,,,,
+Australia,AUS,2023,country_or_territory,0.603284936,3.933207,5.597015,64711.77,3.56,3.763,65.627,,4140000000,139991,,,34502,14501414,Positive,Below 5%,Below 5%
+Austria,AUT,2023,country_or_territory,-1.811928227,,7.814134,56505.97,4.979,5.477,49.8,,2050000000,19999,,,257811,4825387,Negative,Below 5%,5% to below 10%
+Azerbaijan,AZE,2023,country_or_territory,1.415979777,5.250503,8.78543,7155.084,6.501,4.781,,,182232000,0,3747,5710,5771,5473196,Positive,5% to below 10%,Below 5%
+"Bahamas, The",BHS,2023,country_or_territory,1.982610585,,3.052916,34749.64,9.234,9.165,81.172,,,1000,4457,4318,,242250,Positive,5% to below 10%,5% to below 10%
+Bahrain,BHR,2023,country_or_territory,1.565588065,,0.074621,29084.31,3.798,0.426,,,,0,4664,4127,254,855301,Positive,Below 5%,Below 5%
+Bangladesh,BGD,2023,country_or_territory,4.693874309,7.013254,9.883503,2529.08,7.529,3.875,,,46488578.5,-309977,,,971984,74913612,Positive,5% to below 10%,Below 5%
+Barbados,BRB,2023,country_or_territory,4.383061987,0.937768,9.792071,22672.62,6.929,8.964,,,,-80,815,879,5,145851,Positive,5% to below 10%,5% to below 10%
+Belarus,BLR,2023,country_or_territory,4.449606935,,5.000599,7829.053,2.908,4.247,33.749,,,-4282,6395,13423,39981,4956149,Positive,Below 5%,Below 5%
+Belgium,BEL,2023,country_or_territory,0.192342045,,4.049011,53475.29,5.01,5.946,25.905,,4470000000,23999,,,167831,5432007,Positive,5% to below 10%,5% to below 10%
+Belize,BLZ,2023,country_or_territory,3.128573889,8.214451,4.38984,7987.586,12.686,5.372,,,12266556.6,600,3150,2566,214,190064,Positive,10% to 20%,5% to below 10%
+Benin,BEN,2023,country_or_territory,3.561042475,-0.39434,2.731025,1434.663,1.733,1.217,,,,-200,,,2825,4964239,Positive,Below 5%,Below 5%
+Bermuda,BMU,2023,country_or_territory,,,,,,,,,,0,,,,,,,
+Bhutan,BTN,2023,country_or_territory,,,4.229344,,7.62,4.143,25.683,,7609.34004,300,,,,429536,,5% to below 10%,Below 5%
+Bolivia,BOL,2023,country_or_territory,1.083512337,,2.576888,3700.978,3.629,2.677,53.415,,18702907.2,-3000,31471,27126,1117,6114198,Positive,Below 5%,Below 5%
+Bosnia and Herzegovina,BIH,2023,country_or_territory,2.394387577,7.673947,,8426.091,12.449,8.984,12.849,,22544194.5,-500,12786,12522,348,1368568,Positive,10% to 20%,5% to below 10%
+Botswana,BWA,2023,country_or_territory,1.000812395,9.231934,5.067615,7249.799,27.012,20.097,18.703,,94000000,3000,,,761,1170359,Positive,Above 20%,Above 20%
+Brazil,BRA,2023,country_or_territory,2.381177724,14.58202,4.593563,10043.62,9.694,6.607,38.159,,6310000000,6000,,,235765,109000000,Positive,5% to below 10%,5% to below 10%
+British Virgin Islands,VGB,2023,country_or_territory,,,,,,,,,,200,,,,,,,
+Brunei Darussalam,BRN,2023,country_or_territory,0.617815738,2.689338,0.357064,33430.92,5.993,4.753,21.279,,6057719.88,0,832,636,,227798,Positive,5% to below 10%,Below 5%
+Bulgaria,BGR,2023,country_or_territory,2.396407611,8.69826,9.442841,15797.6,4.177,4.398,16.167,,319000000,-4800,,,97618,3102757,Positive,Below 5%,Below 5%
+Burkina Faso,BFA,2023,country_or_territory,0.401957858,-2.88383,0.74291,874.1213,5.709,4.952,23.685,,,-24998,845611,797079,37735,8577269,Positive,5% to below 10%,Below 5%
+Burundi,BDI,2023,country_or_territory,-0.007284562,15.45211,26.94148,199.5808,0.823,1.04,,,471328.537,2000,,,85229,5722443,Negative,Below 5%,Below 5%
+Cabo Verde,CPV,2023,country_or_territory,4.177349899,6.254196,,4321.58,11.428,12.452,,,1961357.79,-1227,,,,257317,Positive,10% to 20%,10% to 20%
+Cambodia,KHM,2023,country_or_territory,4.299126282,12.54251,2.127468,1875.071,0.266,0.215,,,60395288.9,-29998,41849.78,37807.82,24,9174840,Positive,Below 5%,Below 5%
+Cameroon,CMR,2023,country_or_territory,1.333386551,,7.382814,1673.649,4.186,3.163,,,,-4800,,,485285,11965019,Positive,Below 5%,Below 5%
+Canada,CAN,2023,country_or_territory,-1.85450959,,3.879002,53371.7,5.186,5.529,58.606,,15600000000,249746,,,169448,22110473,Negative,5% to below 10%,5% to below 10%
+Cayman Islands,CYM,2023,country_or_territory,,,,,,,,,,400,,,49,,,,
+Central African Republic,CAF,2023,country_or_territory,-1.996031538,,2.979139,445.0282,7.192,5.535,,,,-14716,,,32913,2114113,Negative,5% to below 10%,5% to below 10%
+Chad,TCD,2023,country_or_territory,0.959367777,,10.83636,719.3849,0.744,1.312,,,,-2000,283729,485022,1100921,5806355,Positive,Below 5%,Below 5%
+Channel Islands,CHI,2023,country_or_territory,,,,,6.209,5.8,,,,900,,,,86239,,5% to below 10%,5% to below 10%
+Chile,CHL,2023,country_or_territory,0.086767873,2.612362,7.581683,17093.24,9.374,8.786,20.15,,1360000000,-71205,,,2338,9847754,Positive,5% to below 10%,5% to below 10%
+China,CHN,2023,country_or_territory,5.309248534,9.848835,0.234837,12614.06,4.058,5.174,,,42700000000,-310220,,,296,779000000,Positive,Below 5%,5% to below 10%
+Colombia,COL,2023,country_or_territory,0.204317448,6.080917,11.7359,6979.725,11.863,7.93,28.855,,1900000000,-175051,,,1382,26003385,Positive,10% to 20%,5% to below 10%
+Comoros,COM,2023,country_or_territory,0.856855181,9.357295,,1587.162,6.603,5.312,,,,-2000,12900,15300,10,234437,Positive,5% to below 10%,5% to below 10%
+"Congo, Dem. Rep.",COD,2023,country_or_territory,5.10794904,,,649.144,3.676,5.359,,,,-14999,,,523392,35983053,Positive,Below 5%,5% to below 10%
+"Congo, Rep.",COG,2023,country_or_territory,-0.370027888,9.640016,4.301746,2508.823,21.383,18.741,,,,-1000,80839,77678,60637,2461099,Negative,Above 20%,10% to 20%
+Costa Rica,CRI,2023,country_or_territory,4.479819237,5.224306,0.525194,16595.37,10.167,7.109,23.11,,1020000000,3750,,,23422,2407610,Positive,10% to 20%,5% to below 10%
+Cote d'Ivoire,CIV,2023,country_or_territory,3.906974803,3.326396,4.387117,2728.803,3.021,1.93,,,,6000,48033,127461,2370,10954094,Positive,Below 5%,Below 5%
+Croatia,HRV,2023,country_or_territory,3.126160291,,7.941282,21459.78,6.613,5.572,19.534,,474000000,-2000,,,25029,1744221,Positive,5% to below 10%,5% to below 10%
+Cuba,CUB,2023,country_or_territory,,,,,1.178,1.154,,,,-6000,18894,15377,136,5317246,,Below 5%,Below 5%
+Curacao,CUW,2023,country_or_territory,,,,,,,,,26059230.4,515,201,165,,,,,
+Cyprus,CYP,2023,country_or_territory,0.694447455,,3.541342,34701.44,5.869,6.045,36.42,,327000000,5000,,,39044,692875,Positive,5% to below 10%,5% to below 10%
+Czechia,CZE,2023,country_or_territory,-2.159455312,9.730228,10.66126,30427.42,3.054,2.229,21.838,,1970000000,22011,,,377120,5502169,Negative,Below 5%,Below 5%
+Denmark,DNK,2023,country_or_territory,1.137211133,5.528914,3.305178,67967.38,5.299,5.001,58.176,,2570000000,19999,,,68912,3179505,Positive,5% to below 10%,5% to below 10%
+Djibouti,DJI,2023,country_or_territory,5.211747123,7.675894,1.495068,3606.417,36.15,22.16,,,,900,,,23063,255564,Positive,Above 20%,Above 20%
+Dominica,DMA,2023,country_or_territory,4.277848698,-0.44957,3.481158,8953.896,,,,,1305132.47,-40,419,406,,,Positive,,
+Dominican Republic,DOM,2023,country_or_territory,1.419912711,14.48261,4.785613,10716.01,8.503,3.541,32.605,,200600000,-29099,84262,74287,778,5301571,Positive,5% to below 10%,Below 5%
+Ecuador,ECU,2023,country_or_territory,1.289018893,5.215589,2.215688,6533.352,4.126,2.838,30.126,,302000000,-21525,57831,28102,62899,8893065,Positive,Below 5%,Below 5%
+"Egypt, Arab Rep.",EGY,2023,country_or_territory,2.169715046,19.92307,33.88478,3512.58,17.939,4.877,,,460000000,-29998,,,240507,33430910,Positive,10% to 20%,Below 5%
+El Salvador,SLV,2023,country_or_territory,3.046661532,8.883594,4.045547,5344.214,3.061,2.546,31.103,98,137109752,-23249,53478,42499,106,2870401,Positive,Below 5%,Below 5%
+Equatorial Guinea,GNQ,2023,country_or_territory,-7.878583517,8.725564,,7066.617,9.798,7.834,,,,4000,,,,592618,Negative,5% to below 10%,5% to below 10%
+Eritrea,ERI,2023,country_or_territory,,,,,6.714,5.12,,,,-15297,,,119,1800336,,5% to below 10%,5% to below 10%
+Estonia,EST,2023,country_or_territory,-4.237235421,,9.159225,29823.75,6.583,6.112,38.705,,105115311,-1000,,,42005,752419,Negative,5% to below 10%,5% to below 10%
+Eswatini,SWZ,2023,country_or_territory,4.049870005,,,3797.301,39.354,36.098,,,53547596,-5268,,,1202,405086,Positive,Above 20%,Above 20%
+Ethiopia,ETH,2023,country_or_territory,3.849182604,,30.21883,1293.778,4.694,2.444,,,3367883.19,-11999,1938388,2322036,979846,61664369,Positive,Below 5%,Below 5%
+Faroe Islands,FRO,2023,country_or_territory,,,,,,,,,,0,,,,,,,
+Fiji,FJI,2023,country_or_territory,7.263950705,8.756737,,5868.159,5.537,3.709,,,,-3289,,,15,390514,Positive,5% to below 10%,Below 5%
+Finland,FIN,2023,country_or_territory,-1.53439327,,6.250643,53755.91,6.423,7.842,47.861,,987000000,13999,,,89869,2879817,Negative,5% to below 10%,5% to below 10%
+France,FRA,2023,country_or_territory,0.409870599,,4.878357,44460.82,7.173,7.467,31.653,,15500000000,67761,,,664366,31825317,Positive,5% to below 10%,5% to below 10%
+French Polynesia,PYF,2023,country_or_territory,,,,,12.717,10.952,,,,-100,,,,137413,,10% to 20%,10% to 20%
+Gabon,GAB,2023,country_or_territory,0.266540431,,3.629015,8420.102,29.038,14.618,,,,1000,,,204,763104,Positive,Above 20%,10% to 20%
+"Gambia, The",GMB,2023,country_or_territory,2.745352801,9.266851,16.97421,843.7657,5.761,7.116,25.468,,,-3000,,,3809,969074,Positive,5% to below 10%,5% to below 10%
+Georgia,GEO,2023,country_or_territory,6.10651322,14.92832,2.487761,8120.363,10.204,12.886,,,106288726,-9999,4362,3973,26019,1853143,Positive,10% to 20%,10% to 20%
+Germany,DEU,2023,country_or_territory,-1.112435856,,5.946437,52745.76,2.805,3.255,48.749,,24100000000,155751,,,2593007,44783712,Negative,Below 5%,Below 5%
+Ghana,GHA,2023,country_or_territory,0.995480411,37.41071,38.10697,2238.158,3.429,2.757,,,265000000,-9999,,,7057,14887115,Positive,Below 5%,Below 5%
+Gibraltar,GIB,2023,country_or_territory,,,,,,,,,,-24,,,,,,,
+Greece,GRC,2023,country_or_territory,2.657618178,,3.464801,22990.01,14.158,8.424,16.307,,371000000,5000,,,192384,4645359,Positive,10% to 20%,5% to below 10%
+Greenland,GRL,2023,country_or_territory,,,,,,,,,,-100,,,,,,,
+Grenada,GRD,2023,country_or_territory,4.190479938,1.36128,2.696123,10463.65,,,,,12435218.9,-200,,,,,Positive,,
+Guam,GUM,2023,country_or_territory,,,,,5.123,5.661,,,,-500,,,,80212,,5% to below 10%,5% to below 10%
+Guatemala,GTM,2023,country_or_territory,2.04680755,6.059395,6.206576,5797.522,4.19,1.923,41.288,,492000000,-9110,88185,86486,989,7257874,Positive,Below 5%,Below 5%
+Guinea,GIN,2023,country_or_territory,4.562665245,,7.804976,1663.938,5.357,5.254,,,,-4000,,,2191,4400646,Positive,5% to below 10%,5% to below 10%
+Guinea-Bissau,GNB,2023,country_or_territory,2.053818348,-1.09572,,914.2752,2.718,3.562,,,,-1400,,,24,726412,Positive,Below 5%,Below 5%
+Guyana,GUY,2023,country_or_territory,32.18200728,22.08586,2.821103,20626.2,13.998,11.366,,,,-3900,6316,6647,27,295000,Positive,10% to 20%,10% to 20%
+Haiti,HTI,2023,country_or_territory,-3.033732198,-9.64122,36.81352,1693.069,17.777,11.786,,,,-31811,,,,5237767,Negative,10% to 20%,10% to 20%
+Honduras,HND,2023,country_or_territory,2.009005842,11.14129,6.663252,3247.231,8.912,4.194,28.704,,138440760,-5034,138053,118309,182,4675950,Positive,5% to below 10%,Below 5%
+"Hong Kong SAR, China",HKG,2023,country_or_territory,0.612799102,3.872245,2.096605,50696.59,3.197,4.658,28.515,,,19999,,,301,3825407,Positive,Below 5%,Below 5%
+Hungary,HUN,2023,country_or_territory,-0.358217424,3.617985,17.12497,22147.21,4.154,4.102,23.896,,1380000000,-156677,,,63180,5005562,Negative,Below 5%,Below 5%
+Iceland,ISL,2023,country_or_territory,0.997671254,8.320483,8.736303,78811.06,3.151,3.911,75.801,,64546154.4,380,,,8715,239195,Positive,Below 5%,Below 5%
+India,IND,2023,country_or_territory,6.721381414,,5.649143,2484.845,4.059,4.218,14.735,98,14300000000,-486136,815165.1,907274.7,252867,594000000,Positive,Below 5%,Below 5%
+Indonesia,IDN,2023,country_or_territory,4.278686854,3.500328,3.670131,4940.55,3.116,3.612,33.134,,2500000000,-49997,,,8450,141000000,Positive,Below 5%,Below 5%
+"Iran, Islamic Rep.",IRN,2023,country_or_territory,4.219866491,,44.57919,4502.546,15.795,7.752,,,,-39998,,,3764517,29158831,Positive,10% to 20%,5% to below 10%
+Iraq,IRQ,2023,country_or_territory,-5.086627259,7.53708,,5512.476,29.772,13.232,,,,-6000,,,286480,11811525,Negative,Above 20%,10% to 20%
+Ireland,IRL,2023,country_or_territory,-5.686002918,,6.299425,103684.9,4.28,4.393,48.456,,152000000000,9999,,,113902,2766155,Negative,Below 5%,Below 5%
+Isle of Man,IMN,2023,country_or_territory,,,,,,,,,,340,,,,,,,
+Israel,ISR,2023,country_or_territory,-0.085406983,2.989139,4.225352,52261.68,3.338,3.435,44.997,,2900000000,9999,,,1235,4553808,Negative,Below 5%,Below 5%
+Italy,ITA,2023,country_or_territory,1.228599088,,5.622194,38373.17,8.72,6.795,16.179,,6010000000,58496,,,298296,25668665,Positive,5% to below 10%,5% to below 10%
+Jamaica,JAM,2023,country_or_territory,2.26636117,11.86204,6.474137,6874.2,5.745,3.308,30.615,,50756619.7,-10999,18942,17291,,1559374,Positive,5% to below 10%,Below 5%
+Japan,JPN,2023,country_or_territory,2.421011183,2.060749,3.268134,33834.39,2.342,2.767,49.387,,28900000000,99994,,,22335,69349452,Positive,Below 5%,Below 5%
+Jordan,JOR,2023,country_or_territory,2.152212807,2.086489,2.08487,4482.086,26.588,16.167,,99,,-157392,18039,12698,3063591,3062800,Positive,Above 20%,10% to 20%
+Kazakhstan,KAZ,2023,country_or_territory,3.699415,11.67956,14.72499,13136.62,5.476,4.241,,,400000000,0,37888,30931,42685,9587167,Positive,5% to below 10%,Below 5%
+Kenya,KEN,2023,country_or_territory,3.372619514,19.87368,7.671396,1949.899,7.568,3.812,,,,-10000,,,538899,25501846,Positive,5% to below 10%,Below 5%
+Kiribati,KIR,2023,country_or_territory,2.502511756,,,2089.91,,,,,,-400,1189,1143,,,Positive,,
+"Korea, Dem. People's Rep.",PRK,2023,country_or_territory,,,,,3.158,2.865,,,,-2000,,,,15836683,,Below 5%,Below 5%
+"Korea, Rep.",KOR,2023,country_or_territory,1.278235243,3.893241,3.597456,33121.37,2.689,2.605,29.735,,12400000000,29998,,,4053,29610896,Positive,Below 5%,Below 5%
+Kosovo,XKX,2023,country_or_territory,4.026981091,11.27594,4.944227,5943.126,,,,,3885686.59,-5000,,,,,Positive,,
+Kuwait,KWT,2023,country_or_territory,-3.165462622,1.008121,3.642164,37533.22,5.709,0.866,,,,11999,,,572,2462920,Negative,5% to below 10%,Below 5%
+Kyrgyz Republic,KGZ,2023,country_or_territory,4.269285563,,10.75328,1969.866,4.3,3.847,,,,-9999,,3648,27790,3068644,Positive,Below 5%,Below 5%
+Lao PDR,LAO,2023,country_or_territory,2.328154178,,31.23013,2075.401,0.869,1.457,,,,-9999,29356,30665,,3173837,Positive,Below 5%,Below 5%
+Latvia,LVA,2023,country_or_territory,-0.407971326,,8.938046,23184.31,5.443,7.601,29.465,,44311698.5,-7630,,,45761,977523,Negative,5% to below 10%,5% to below 10%
+Lebanon,LBN,2023,country_or_territory,,,221.3416,,14.735,10.087,,,10805527.6,-177331,80893,77820,1279108,1771423,,10% to 20%,10% to 20%
+Lesotho,LSO,2023,country_or_territory,-0.162348567,,6.342217,878.0085,18.647,14.661,,,2327423.35,-4000,48203,48185,319,1004025,Negative,10% to 20%,10% to 20%
+Liberia,LBR,2023,country_or_territory,2.475181183,,,799.5014,2.261,3.559,,,,-5000,,,1164,2498590,Positive,Below 5%,Below 5%
+Libya,LBY,2023,country_or_territory,-2.758113083,,2.373175,7329.977,24.698,15.407,,,,-2000,,,1837,2397855,Negative,Above 20%,10% to 20%
+Liechtenstein,LIE,2023,country_or_territory,,,,,,,,,,150,,,597,,,,
+Lithuania,LTU,2023,country_or_territory,-1.733166237,,9.11732,27102.78,6.467,7.446,31.882,,238840252,-13128,,,80225,1509766,Negative,5% to below 10%,5% to below 10%
+Luxembourg,LUX,2023,country_or_territory,-3.389021906,,3.741404,128259.4,5.441,4.97,25.781,,7030000000,4883,,,13735,351903,Negative,5% to below 10%,Below 5%
+"Macao SAR, China",MAC,2023,country_or_territory,78.23160988,1.096382,,66835.06,1.968,2.528,,,,5000,3504,2717,,406588,Positive,Below 5%,Below 5%
+Madagascar,MDG,2023,country_or_territory,1.537040115,8.227042,9.874327,528.6502,3.323,2.813,,,,-1500,,,49,15829771,Positive,Below 5%,Below 5%
+Malawi,MWI,2023,country_or_territory,-1.01408252,32.23409,28.78974,672.8697,5.983,4.16,,,,-6000,,,35201,8366090,Negative,5% to below 10%,Below 5%
+Malaysia,MYS,2023,country_or_territory,2.561224365,5.832086,2.488866,11648.67,4.03,3.743,,,2730000000,48997,45522,12454,135872,17307639,Positive,Below 5%,Below 5%
+Maldives,MDV,2023,country_or_territory,4.524767366,6.859612,2.927465,12667.44,3.622,4.318,,,92663194.4,-8652,2606,1849,,260231,Positive,Below 5%,Below 5%
+Mali,MLI,2023,country_or_territory,2.073620327,-1.12912,2.058802,897.4487,2.887,3.082,,,,-39998,592177,707138,66443,8276658,Positive,Below 5%,Below 5%
+Malta,MLT,2023,country_or_territory,1.394632143,,5.093968,37882.27,2.952,3.248,49.022,,,850,,,11724,313357,Positive,Below 5%,Below 5%
+Marshall Islands,MHL,2023,country_or_territory,2.176434712,,,6762.549,,,,,,0,,,,,Positive,,
+Mauritania,MRT,2023,country_or_territory,0.68681786,,4.95305,2149.414,15.245,8.139,,,,3000,,,112549,1178602,Positive,10% to 20%,5% to below 10%
+Mauritius,MUS,2023,country_or_territory,7.077980403,7.265656,7.052982,11416.86,8.14,4.697,30.596,,8290639.51,0,872,527,5,588041,Positive,5% to below 10%,Below 5%
+Mexico,MEX,2023,country_or_territory,2.464144313,11.01774,5.527961,13926.11,2.863,2.778,31.506,,6200000000,-50239,,,124784,60042318,Positive,Below 5%,Below 5%
+"Micronesia, Fed. Sts.",FSM,2023,country_or_territory,-0.14284878,,,3992.224,,,,,,-600,,,,,Negative,,
+Moldova,MDA,2023,country_or_territory,2.890705791,18.31571,13.41701,6650.648,1.18,2.116,34.159,,36180000,-125204,,,120947,1464169,Positive,Below 5%,Below 5%
+Monaco,MCO,2023,country_or_territory,,,,,,,,,,200,,,17,,,,
+Mongolia,MNG,2023,country_or_territory,5.508190316,26.83069,10.34758,5764.803,5.267,6.845,17.414,,31877196.7,-850,11788,8382,10,1402844,Positive,5% to below 10%,5% to below 10%
+Montenegro,MNE,2023,country_or_territory,6.160094307,11.96911,8.584769,12016.91,14.701,15.716,,,12058465.8,-480,,,64733,285512,Positive,10% to 20%,10% to 20%
+Morocco,MAR,2023,country_or_territory,2.12180538,3.900352,6.091142,3672.112,10.734,8.643,,,151000000,-39998,,,8295,12284010,Positive,10% to 20%,5% to below 10%
+Mozambique,MOZ,2023,country_or_territory,2.125970864,3.28945,7.126975,608.4427,3.806,3.248,,,0,-5000,,,5152,15191227,Positive,Below 5%,Below 5%
+Myanmar,MMR,2023,country_or_territory,0.264419339,,,1187.567,3.41,2.493,,,,-34998,,,,22884069,Positive,Below 5%,Below 5%
+Namibia,NAM,2023,country_or_territory,2.673684115,,5.879935,4742.784,18.216,20.599,,,10019252.6,-3916,,,5157,988727,Positive,10% to 20%,Above 20%
+Nauru,NRU,2023,country_or_territory,-0.17831559,,,12060.08,,,,,,-140,52,24,,,Negative,,
+Nepal,NPL,2023,country_or_territory,0.800881695,14.28348,7.11476,1324.032,12.248,9.736,,,,-62012,,,19582,8937228,Positive,10% to 20%,5% to below 10%
+Netherlands,NLD,2023,country_or_territory,-0.883533871,,3.838394,62536.73,3.739,3.401,76.178,,44400000000,29998,,,237767,9998892,Negative,Below 5%,Below 5%
+New Caledonia,NCL,2023,country_or_territory,,,,,11.913,10.606,,,,500,,,,119284,,10% to 20%,10% to 20%
+New Zealand,NZL,2023,country_or_territory,-1.408108094,3.576949,5.733163,48527.83,3.962,3.533,60.83,,1040000000,12999,,,1837,3068205,Negative,Below 5%,Below 5%
+Nicaragua,NIC,2023,country_or_territory,3.116594585,,8.387659,2530.291,4.927,4.711,,,1500000,-8000,41764,39243,311,3264024,Positive,Below 5%,Below 5%
+Niger,NER,2023,country_or_territory,-1.248643662,-0.94031,3.700973,618.2872,0.473,0.605,,,,1000,809506,861789,269996,10237246,Negative,Below 5%,Below 5%
+Nigeria,NGA,2023,country_or_territory,0.441156422,,24.65955,1621.124,4.243,2.164,,,253000000,-59996,,,69940,75721345,Positive,Below 5%,Below 5%
+North Macedonia,MKD,2023,country_or_territory,2.127577916,5.894621,9.361872,8146.468,11.722,14.015,12.987,,160000000,-1000,,,18898,801197,Positive,10% to 20%,10% to 20%
+Northern Mariana Islands,MNP,2023,country_or_territory,,,,,,,,,,-50,,,,,,,
+Norway,NOR,2023,country_or_territory,-0.623432003,0.432722,5.51785,87961.78,3.475,3.675,59.348,,646000000,27998,,,103606,3009339,Negative,Below 5%,Below 5%
+Oman,OMN,2023,country_or_territory,-0.185043399,,0.942793,23295.33,4.841,0.78,,,,0,8531,7170,300,2315787,Negative,Below 5%,Below 5%
+Pakistan,PAK,2023,country_or_territory,-1.942837661,16.25306,30.76813,1407.021,7.593,4.867,,,104000000,-165988,,,1988231,80989797,Negative,5% to below 10%,Below 5%
+Palau,PLW,2023,country_or_territory,0.431742859,,12.79899,14565.33,,,,,,-20,100,84,,,Positive,,
+Panama,PAN,2023,country_or_territory,5.887532159,,1.486414,18661.77,8.691,5.365,26.14,,10100000,7262,24005,21719,2724,2095776,Positive,5% to below 10%,5% to below 10%
+Papua New Guinea,PNG,2023,country_or_territory,0.819102071,,2.2987,2994.453,2.16,3.099,,,,-800,,,10523,3228808,Positive,Below 5%,Below 5%
+Paraguay,PRY,2023,country_or_territory,3.481335716,8.706333,4.632023,6260.455,7.308,4.664,38.421,,13864000,-12499,48848,46641,5991,3468731,Positive,5% to below 10%,Below 5%
+Peru,PER,2023,country_or_territory,-1.427735046,,6.455613,7789.871,5.607,4.142,47.459,,591000000,-61442,,,6712,18529435,Negative,5% to below 10%,Below 5%
+Philippines,PHL,2023,country_or_territory,3.946203782,,5.978025,3725.551,2.522,2.049,,,452000000,-69996,730580,595798,934,49477060,Positive,Below 5%,Below 5%
+Poland,POL,2023,country_or_territory,0.531623455,8.538156,11.52891,22112.86,2.893,2.916,25.067,,4550000000,-910475,,,971478,18387400,Positive,Below 5%,Below 5%
+Portugal,PRT,2023,country_or_territory,1.137700537,,4.311282,27275.11,6.856,6.128,26.849,,921000000,9999,,,62807,5418819,Positive,5% to below 10%,5% to below 10%
+Puerto Rico,PRI,2023,country_or_territory,1.015942033,,,36779.06,4.81,6.771,,,,19835,17200,15234,,1154152,Positive,Below 5%,5% to below 10%
+Qatar,QAT,2023,country_or_territory,,1.144004,3.027649,,0.386,0.077,,,,0,,,197,2035269,,Below 5%,Below 5%
+Romania,ROU,2023,country_or_territory,2.099659798,10.50426,10.39719,18419.42,5.121,5.95,13.657,,1170000000,-254616,,,87487,8282417,Positive,5% to below 10%,5% to below 10%
+Russian Federation,RUS,2023,country_or_territory,3.893618049,,,13817.05,3.339,3.311,23.025,,3430000000,-136414,222166,159282,1230131,72407755,Positive,Below 5%,Below 5%
+Rwanda,RWA,2023,country_or_territory,5.799294787,,19.78955,1000.219,16.455,13.567,33.785,,271930.249,-8999,,,115643,5283082,Positive,10% to 20%,10% to 20%
+Samoa,WSM,2023,country_or_territory,6.413358166,13.6772,8.118698,4139.03,15.027,6.557,,,612447.024,-1500,627,393,,76895,Positive,10% to 20%,5% to below 10%
+San Marino,SMR,2023,country_or_territory,,,,,,,,,,100,60,44,,,,,
+Sao Tome and Principe,STP,2023,country_or_territory,-2.395792381,,21.25891,2601.791,22.05,9.932,,,,-600,,,,76394,Negative,Above 20%,5% to below 10%
+Saudi Arabia,SAU,2023,country_or_territory,-2.200611753,,2.327085,28894.96,13.07,2.489,12.846,,,28998,,,477,16933906,Negative,10% to 20%,Below 5%
+Senegal,SEN,2023,country_or_territory,1.092113959,9.609139,,1745.972,3.128,2.804,,,,-19999,466413,287137,11856,5257332,Positive,Below 5%,Below 5%
+Serbia,SRB,2023,country_or_territory,3.246987813,12.65864,12.3719,11360.96,8.975,8.438,18.205,,690000000,-9999,,,29365,3333428,Positive,5% to below 10%,5% to below 10%
+Seychelles,SYC,2023,country_or_territory,3.252151933,5.72811,-1.0353,17879.24,,,42.144,,4355217.3,-200,115,165,,,Positive,,
+Sierra Leone,SLE,2023,country_or_territory,1.249819829,32.83246,47.64287,433.3742,2.136,4.129,,,,-4000,,,,2912540,Positive,Below 5%,Below 5%
+Singapore,SGP,2023,country_or_territory,-3.71813639,,4.821467,84734.26,3.705,3.3,31.63,,18200000000,26998,,,,3619025,Negative,Below 5%,Below 5%
+Sint Maarten (Dutch part),SXM,2023,country_or_territory,2.709209727,,,39432.64,,,,,2648419.3,0,,,5,,Positive,,
+Slovak Republic,SVK,2023,country_or_territory,1.690286891,,10.53195,24470.24,5.953,5.74,17.782,,864000000,-112067,,,126866,2823082,Positive,5% to below 10%,5% to below 10%
+Slovenia,SVN,2023,country_or_territory,1.158171733,,7.446877,32163.51,3.656,3.603,28.383,,281000000,2000,,,10525,1055488,Positive,Below 5%,Below 5%
+Solomon Islands,SLB,2023,country_or_territory,0.704416897,6.12805,5.885859,2203.179,1.594,1.499,,,1404790.99,-1600,16916,15473,,382330,Positive,Below 5%,Below 5%
+Somalia,SOM,2023,country_or_territory,0.000975996,,,643.75,24.693,16.451,,,,-30000,,,17770,3276784,Positive,Above 20%,10% to 20%
+South Africa,ZAF,2023,country_or_territory,-0.265252688,7.593743,6.073909,6253.162,29.869,26.322,9.021,,1630000000,58496,,,67145,25158403,Negative,Above 20%,Above 20%
+South Sudan,SSD,2023,country_or_territory,,63.39569,2.382804,,13.314,11.184,,,,-23291,,,381236,4471289,,10% to 20%,10% to 20%
+Spain,ESP,2023,country_or_territory,1.242495433,,3.532361,32676.98,13.894,10.595,22.126,,6920000000,39998,,,385701,24107955,Positive,10% to 20%,10% to 20%
+Sri Lanka,LKA,2023,country_or_territory,-1.65961513,,16.54117,3827.965,9.95,4.578,,,94222669.7,-77495,,,377,8707414,Negative,5% to below 10%,Below 5%
+St. Kitts and Nevis,KNA,2023,country_or_territory,3.218896971,-1.85402,3.557112,22553.31,,,,,3107393.33,20,,,19,,Positive,,
+St. Lucia,LCA,2023,country_or_territory,2.96445306,11.02145,4.070608,13980.09,12.17,10.141,,,14746077,0,,,,100833,Positive,10% to 20%,10% to 20%
+St. Martin (French part),MAF,2023,country_or_territory,,,,,,,,,,0,,,,,,,
+St. Vincent and the Grenadines,VCT,2023,country_or_territory,6.271697751,4.016331,4.564577,10279.49,16.665,20.094,,,2850448.52,-200,,,,53060,Positive,10% to 20%,Above 20%
+Sudan,SDN,2023,country_or_territory,-14.30425352,,,2272.486,18.729,8.392,,,,-9999,,,922474,13589630,Negative,10% to 20%,5% to below 10%
+Suriname,SUR,2023,country_or_territory,1.224442666,19.6155,,6069.029,10.819,5.474,,,6883098.12,-1000,5307,26237,24,250230,Positive,10% to 20%,5% to below 10%
+Sweden,SWE,2023,country_or_territory,-0.666848159,-1.27225,8.548625,56305.25,7.844,7.358,44.807,,15100000000,39998,,,237632,5825253,Negative,5% to below 10%,5% to below 10%
+Switzerland,CHE,2023,country_or_territory,-0.127139868,,2.135401,99994.94,4.261,3.865,59.933,,30800000000,39998,,,192507,4991280,Negative,Below 5%,Below 5%
+Syrian Arab Republic,SYR,2023,country_or_territory,,,,,25.254,10.897,,,,757103,333602,309430,595953,6314719,,Above 20%,10% to 20%
+Tajikistan,TJK,2023,country_or_territory,6.263346476,50.64468,,1188.993,5.493,7.907,,,227070,-19999,,,10092,2677489,Positive,5% to below 10%,5% to below 10%
+Tanzania,TZA,2023,country_or_territory,2.178850251,14.05535,3.799233,1211.059,3.535,1.726,,,,-39997,1170814,840830,188953,31219073,Positive,Below 5%,Below 5%
+Thailand,THA,2023,country_or_territory,1.734892772,1.950481,1.228026,7171.808,1.027,0.816,32.417,,6030000000,18999,,,87314,40813511,Positive,Below 5%,Below 5%
+Timor-Leste,TLS,2023,country_or_territory,-15.57318028,2.709073,,1648.647,1.54,1.509,,,1325641.41,-5000,,,,596825,Negative,Below 5%,Below 5%
+Togo,TGO,2023,country_or_territory,3.997413061,6.649498,,1012.974,1.807,2.273,,,,-2000,,,28240,3165789,Positive,Below 5%,Below 5%
+Tonga,TON,2023,country_or_territory,,1.991003,6.35113,,2.954,1.851,,,,-800,,,,38483,,Below 5%,Below 5%
+Trinidad and Tobago,TTO,2023,country_or_territory,1.844285027,1.382848,4.629302,18332.96,4.808,3.754,,,8268385.47,-800,24457,22675,3205,681265,Positive,Below 5%,Below 5%
+Tunisia,TUN,2023,country_or_territory,-0.399410952,8.953604,9.328996,3895.387,20.54,12.875,9.453,,,-4000,15078,10001,3994,4445313,Negative,Above 20%,10% to 20%
+Turkiye,TUR,2023,country_or_territory,4.092940286,69.93635,53.85941,12985.75,12.135,8.054,25.256,,3590000000,-318067,,,3251127,35071478,Positive,10% to 20%,5% to below 10%
+Turkmenistan,TKM,2023,country_or_territory,,,,9190.672,2.541,5.874,,,,-4000,,,3614,2163083,,Below 5%,5% to below 10%
+Turks and Caicos Islands,TCA,2023,country_or_territory,0.411259851,,,30438.42,,,,,,200,,,7,,Positive,,
+Tuvalu,TUV,2023,country_or_territory,3.087309373,,,5465.103,,,,,,-60,,,,,Positive,,
+Uganda,UGA,2023,country_or_territory,2.345070129,10.66485,5.350948,1014.214,3.393,2.282,,,,-126181,,,1577498,18881435,Positive,Below 5%,Below 5%
+Ukraine,UKR,2023,country_or_territory,8.046955695,23.00763,12.84902,5181.363,,,,,401000000,1784718,,,2512,,Positive,,
+United Arab Emirates,ARE,2023,country_or_territory,2.580896072,18.77062,,52976.81,7.781,1.551,22.915,,,0,607,312,1416,6668172,Positive,5% to below 10%,Below 5%
+United Kingdom,GBR,2023,country_or_territory,-0.714682165,-2.63479,6.793967,48866.6,3.828,4.262,47.428,,21000000000,165790,,,448620,35275169,Negative,Below 5%,Below 5%
+United States,USA,2023,country_or_territory,2.039505936,1.776395,4.116338,81695.19,3.448,3.78,51.951,,47500000000,999700,,,409202,171000000,Positive,Below 5%,Below 5%
+Uruguay,URY,2023,country_or_territory,0.358268517,1.338082,5.869104,22564.53,9.477,7.411,27.756,,202000000,-1500,,,1285,1775121,Positive,5% to below 10%,5% to below 10%
+Uzbekistan,UZB,2023,country_or_territory,3.764398849,12.16439,,2496.108,6.64,3.333,,,96900000,-19999,69541,61295,9405,14269864,Positive,5% to below 10%,Below 5%
+Vanuatu,VUT,2023,country_or_territory,-0.160067101,5.945675,,3367.095,6.447,4.037,,,,0,2436,2013,,141633,Negative,5% to below 10%,Below 5%
+"Venezuela, RB",VEN,2023,country_or_territory,,,,,6.029,5.236,,,,321106,,,29336,11548202,,5% to below 10%,5% to below 10%
+Viet Nam,VNM,2023,country_or_territory,4.332271059,,3.252893,4346.768,1.466,1.729,37.643,,,-82700,,,19,56149382,Positive,Below 5%,Below 5%
+Virgin Islands (U.S.),VIR,2023,country_or_territory,,,,,13.062,11.289,,,,-450,,,,46435,,10% to 20%,10% to 20%
+West Bank and Gaza,PSE,2023,country_or_territory,-7.743372756,6.800668,5.871102,3367.607,,,,,895582.851,-5000,24850,25017,2482144,,Negative,,
+"Yemen, Rep.",YEM,2023,country_or_territory,,,,,29.494,16.18,,61.76,,-29914,,,55568,6882832,,Above 20%,10% to 20%
+Zambia,ZMB,2023,country_or_territory,2.992083549,24.57996,10.88453,1369.129,6.22,5.664,,,20162134.6,-5000,,,72411,7051257,Positive,5% to below 10%,5% to below 10%
+Zimbabwe,ZWE,2023,country_or_territory,2.783839188,708.9286,,1592.417,8.824,8.694,36.089,,,-9999,,,10114,6560725,Positive,5% to below 10%,5% to below 10%
