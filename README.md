@@ -1,48 +1,53 @@
 # Datathon at Los Angeles Community College (LACC) 
 
 
-## Team
-
-NaNaNaNa
-Sabrina Moore
-Kayla Perkins
-Chris Hurtado
+## Team NaNaNaNa
+El Camino college 
+- Sabrina Moore
+- Kayla Perkins
+- Chris Hurtado
 
 ## Dataset
+<!--TO DO-->
 
+## Task summary
+My team attended the LACC Datathon event designed to create interest in data science with an introduction to R (and Rstudio) and a one hour data analysis competition. 
 
-## Task summary and hypothesis
-
-my Team from El Camino College (ECC) called Team NaNaNaNA had one hour to analyze a dataset of countries with GDP, unemployment percentages, literacy rates and other 
-economic factors, create visualizations, and present on one of two general topics:
+my Team had to analyze a dataset of countries with macroeconomic variables - GDP, unemployment percentages, literacy rates and other 
+economic factors - create visualizations, and present on one of two general topics:
 
 1. Does the GDP of a country affect unemployment in men or women?
 2. Does the GDP of a country affect inflation?
 
-My team worked on the hypothesis 'is there a disparity between how GDP affects men and women's unemployment rate?' In other words, will we see a difference between 
-the unemployment rate of men versus women when the economy marker of GDP is high versus low? 
+## Hypothesis
+My team worked on the hypothesis **'is there a disparity between how GDP affects men and women's unemployment rate?**'
 
-We wanted to investigate if factors affecting the stability and health of the economy would have a gender bias or not, but knew that we would only be able to draw a correlation but no causation
-with our limited time and data. 
+We wanted to investigate whether economic stability and growth carry an implicit gender bias. Given the time limit of one hour and the scope of the dataset, our analysis focuses strictly on correlation rather than causation.
 
 ## Why compare men and women?
 
-Men and women tend to cluster in different sectors, or industries, and industries are not equally impacted by the economy.
+Men and women tend to cluster in different economic sectors and industries and are not equally impacted by the economy.
 <!-- Give data/research proof -->
 
-Factors like gender, race, and disability can show systemic disadvantages.
+According to research by organizations like the International Labour Organization (ILO) and the World Bank, women in developing economies are often disproportionately concentrated in informal or vulnerable employment, making their workforce participation sensitive to broader macroeconomic shifts.
+<!-- Give data/research proof -->
+
+Demographic factors such as gender, race, and disability often highlight underlying structural inequities in access to stable employment during economic downturns.
+<!-- Give data/research proof -->
 
 
-## Steps
+## Methodology and Steps
 
-- Deciding on usable variables.
+1. Variable selection: 
+- GDP per capita usd
+- Male Unemployment Rate
+- Female Unemployment Rate
 
-- Dropping null values in those columns.
+2. Data cleaning: Handled missing values by removing null entries within the targeted feature subset.
 
-- Comparing mean between men and women.
+3. Descriptive statistics: Computed summary statistics and compared average unemployment metrics between men and women.
 
-- Plotting unemployment rate, combined and separately, against GDP to see overall trends. 
-
+4. Data Visualization: Plotted male, female, and combined unemployment rates against GDP to evaluate visual trends, inverse relationships, and outlier distribution.
 
 ## Visualizations
 
@@ -50,32 +55,30 @@ Factors like gender, race, and disability can show systemic disadvantages.
 
 ## Results
 
-Female Unemployment is slightly higher, with also more upper bound outliers. 
+**Slight Disparity in Female Unemployment**: Female unemployment trends slightly higher on average, exhibiting a wider spread and a greater number of high-side outliers compared to male unemployment.
 
-Unemployment is right skewed which suggests unusually high unemployment rates.
+**Distribution Skewness**: Unemployment distribution across countries is strongly right-skewed, highlighting a smaller subset of nations with extreme unemployment rates.
 
-When GDP is lower, both men's and women's unemployment percentage is high and has an inverse relationship in when GDP is high.
+**Non-Linear Trend with GDP**: In lower-GDP countries, both male and female unemployment rates display high variance and severe spikes (reaching 20–30%+). Higher GDP levels correspond to lower, more stabilized unemployment rates for both genders.
 
-Other outliers include that some low-GDP countries have near 0% unemployment, while others spike very high (some near or above 20-30%).
-
+**Low-GDP Outliers**: Some low-GDP nations exhibit near-0% reported unemployment (often reflecting high informal economy participation), while others experience severe unemployment spikes.
 
 ## Discussion
-The difference between male and female unemployment is small and does not support the idea that a country’s GDP alone affects women and men differently. This is supported by 
+The difference between male and female unemployment is small and does not support the idea that a country’s GDP alone affects women and men differently. Instead, both genders experience similar overall macroeconomic trends in relation to GDP scale. This is supported by 
 
 
 ## Self-Reflection
-With more time to prepare, here is what we would've liked to do differently:
-- Reframing the hypothesis to ...
-- Dedicating a slide to just describing the dataset, the variables, and what the dataset tells us at face value before diving into the analysis.
-- More visualizations.
+Because of the time constraint, here is a self-reflection of what we would've liked to do differently with more time:
+- Reframing the hypothesis to control better for high GDP versus low GDP to gain more insight on macroeconomic influences.
+- Dedicating a slide in the presentation to describing the dataset, the variables, and raw summary metrics prior to testing hypotheses.
+- Expanded visualizations to reveal non-linear relationships.
 - Examining the correlation coefficient as mean isn't enough to inform us about the significance between the two data points.
 
 
 ## Further Thoughts
 
-What other factors, like work domains/career fields could contribute to the small gender gap?
-
-How does this trend change over time by comparing to historic data?
+- What other factors, like work domains/career fields, could contribute to the small gender gap?
+- How does this trend change over time by comparing to historic data?
 
 
 
